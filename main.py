@@ -1,5 +1,4 @@
 import streamlit as st
-from regex import search
 
 from utills import generate_script
 st.title("视频脚本一键生成器")
